@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+🌱 development student at Trybe
+📫 How to reach me:
 <!--
 **MarcleyRosa/MarcleyRosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
