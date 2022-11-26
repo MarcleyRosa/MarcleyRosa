@@ -1,5 +1,5 @@
 ### Hi i’m Marcley Rosa
-- 🌱 Development student at [Trybe](https://www.betrybe.com/)
+- 🌱 Web development student at [Trybe](https://www.betrybe.com/)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/marcley-rosa-8169a6105/)
 - 📫 Email: mmarcley.14@gmail.com
 <!--
