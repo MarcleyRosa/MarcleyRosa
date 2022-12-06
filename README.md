@@ -42,6 +42,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" alt="mocha" width="40" height="40"/>
   <img align="center" alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-%231572B6?style=flat-square&logo=sequelize">
+  <img src="svg/typescript.svg" alt="typescript icon" style="">
 </div>
 
 
