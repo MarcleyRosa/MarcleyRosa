@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 </div>
  
   <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="25" src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A">
+  <img align="center" alt="Js" height="25" src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-     square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A">
   <img align="center" alt="HTML" height="25" src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff">
   <img align="center" alt="CSS" height="25" src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3">
   <img align="center" alt="React" height="25" src="https://img.shields.io/badge/-React-7159c1?style=flat-square&logo=react&logoColor=ffffff">
