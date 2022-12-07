@@ -42,6 +42,8 @@ Here are some ideas to get you started:
   <img align="center" alt="Express.js" height="25" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
   <img align="center" alt="Mocha" height="25" src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white">
   <img align="center" alt="Sequelize" height="25" src="https://img.shields.io/badge/-Sequelize-%231572B6?style=flat-square&logo=sequelize">
+  <img align="center" alt="Chai" src="https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red">
+  <img align="center" alt="Sinon" src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon">
 </div>
 
 
