@@ -31,9 +31,9 @@ Here are some ideas to get you started:
  
   <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="25" src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A">
-  <img align="center" alt="React" height="25" src="https://img.shields.io/badge/-React-7159c1?style=flat-square&logo=react&logoColor=ffffff">
   <img align="center" alt="HTML" height="25" src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff">
   <img align="center" alt="CSS" height="25" src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3">
+  <img align="center" alt="React" height="25" src="https://img.shields.io/badge/-React-7159c1?style=flat-square&logo=react&logoColor=ffffff">
   <img align="center" alt="Redux" height="25" src="https://img.shields.io/badge/-Redux-61DAFB?style=flat-square&logo=redux&logoColor=6a4daf">
   <img align="center" alt="Jest" height="25" src="https://img.shields.io/badge/-Jest-%23F7DF1C?style=flat-square&logo=jest&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A">
   <img align="center" alt="Docker" height="25" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
@@ -42,8 +42,6 @@ Here are some ideas to get you started:
   <img align="center" alt="Express.js" height="25" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
   <img align="center" alt="Mocha" height="25" src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white">
   <img align="center" alt="Sequelize" height="25" src="https://img.shields.io/badge/-Sequelize-%231572B6?style=flat-square&logo=sequelize">
-  <img align="center" alt="Chai" src="https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red">
-  <img align="center" alt="Sinon" src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon">
 </div>
 
 
