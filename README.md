@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   <img align="center" alt="React" src="https://img.shields.io/badge/-React-7159c1?style=flat-square&logo=react&logoColor=ffffff">
   <img align="center" alt="Redux" src="https://img.shields.io/badge/-Redux-61DAFB?style=flat-square&logo=redux&logoColor=6a4daf">
   <img align="center" alt="Jest" src="https://img.shields.io/badge/-Jest-%23F7DF1C?style=flat-square&logo=jest&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A">
-  <img align="center" alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+  <img align="center" alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
   <img align="center" alt="mySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="Node.js" src="https://img.shields.io/badge/-NodeJS-%231572B6?style=flat-square&logo=nodejs">
   <img align="center" alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
