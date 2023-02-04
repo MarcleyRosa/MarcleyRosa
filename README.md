@@ -1,7 +1,7 @@
-  <img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 ### Hi i’m Marcley Rosa
 - 🌱 Web development student at [Trybe](https://www.betrybe.com/)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/marcley-rosa-8169a6105/)
+<img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 <!--
 **MarcleyRosa/MarcleyRosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
