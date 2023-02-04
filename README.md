@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>
   <img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
-</h1>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-     square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A">
   <img align="center" alt="HTML" src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff">
