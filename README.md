@@ -1,6 +1,6 @@
 ### Hi i’m Marcley Rosa
-- 🌱 Web development student at [Trybe](https://www.betrybe.com/)
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/marcley-rosa-8169a6105/)
+-  Web development student at [Trybe](https://www.betrybe.com/)
+-  How to reach me: [Linkedin](https://www.linkedin.com/in/marcley-rosa-8169a6105/)
 <!--
 **MarcleyRosa/MarcleyRosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
