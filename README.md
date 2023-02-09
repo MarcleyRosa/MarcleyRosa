@@ -43,6 +43,8 @@ Here are some ideas to get you started:
   <img align="center" alt="Mocha" height="22" src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white">
   <img align="center" alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-%231572B6?style=flat-square&logo=sequelize">
   <img align="center" alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=Typescript&logoColor=white">
+  <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+<!--     ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) -->
 </div>
 
 
