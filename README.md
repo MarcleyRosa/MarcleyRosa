@@ -1,5 +1,5 @@
 ### Hi i’m Marcley Rosa
-Programador Web que ama resolver problemas e desenvolver a lógica de programação, atualmente estudante de Desenvolvimento Web na Trybe, onde tive a oportunidade de trabalhar em projetos práticos em Front-end e Back-end, que me permitiram aplicar as minhas habilidades.
+<!-- Programador Web que ama resolver problemas e desenvolver a lógica de programação, atualmente estudante de Desenvolvimento Web na Trybe, onde tive a oportunidade de trabalhar em projetos práticos em Front-end e Back-end, que me permitiram aplicar as minhas habilidades. -->
 -  Web development student at [Trybe](https://www.betrybe.com/)
 -  How to reach me: [Linkedin](https://www.linkedin.com/in/marcley-rosa-8169a6105/)
 <!--
