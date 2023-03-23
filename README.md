@@ -2,8 +2,7 @@
 -  Web development student at [Trybe](https://www.betrybe.com/)
 -  I'm currently working as a Summer of Instruction at [Trybe](https://www.betrybe.com/)
 -  I'm learning Python.
--  How to reach me: [Linkedin](https://www.linkedin.com/in/marcley-rosa-8169a6105/)
-  <a href="mailto:marcley.14@gmail.com"><img src="https://img.icons8.com/bubbles/100/null/gmail.png" title="Email" /></a>
+  <a href="mailto:mmarcley.14@gmail.com"><img src="https://img.icons8.com/bubbles/100/null/gmail.png" title="Email" /></a>
   <a href="https://www.linkedin.com/in/marcley-rosa-8169a6105/" target="_blank"><img src="https://img.icons8.com/bubbles/100/null/linkedin.png" title="Linkedin" /></a> 
 <!--
 **MarcleyRosa/MarcleyRosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,8 +21,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-    <a href="https://www.linkedin.com/in/marcley-rosa-8169a6105/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-      <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+   <a href="mailto:mmarcley.14@gmail.com"><img src="https://img.icons8.com/bubbles/100/null/gmail.png" title="Email" /></a>
+   <a href="https://www.linkedin.com/in/marcley-rosa-8169a6105/" target="_blank"><img src="https://img.icons8.com/bubbles/100/null/linkedin.png" title="Linkedin" /></a> 
  </div>
 <div>
 <a href="https://github.com/MarcleyRosa">
