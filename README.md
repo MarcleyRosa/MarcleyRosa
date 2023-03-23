@@ -2,8 +2,6 @@
 -  Web development student at [Trybe](https://www.betrybe.com/)
 -  I'm currently working as a Summer of Instruction at [Trybe](https://www.betrybe.com/)
 -  I'm learning Python.
-  <a href="mailto:mmarcley.14@gmail.com"><img src="https://img.icons8.com/bubbles/100/null/gmail.png" title="Email" /></a>
-  <a href="https://www.linkedin.com/in/marcley-rosa-8169a6105/" target="_blank"><img src="https://img.icons8.com/bubbles/100/null/linkedin.png" title="Linkedin" /></a> 
 <!--
 **MarcleyRosa/MarcleyRosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,8 +19,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-   <a href="mailto:mmarcley.14@gmail.com"><img src="https://img.icons8.com/bubbles/100/null/gmail.png" title="Email" /></a>
-   <a href="https://www.linkedin.com/in/marcley-rosa-8169a6105/" target="_blank"><img src="https://img.icons8.com/bubbles/100/null/linkedin.png" title="Linkedin" /></a> 
+   <a href="mailto:mmarcley.14@gmail.com"><img width="40px" src="https://img.icons8.com/bubbles/100/null/gmail.png" title="Email" /></a>
+   <a href="https://www.linkedin.com/in/marcley-rosa-8169a6105/" target="_blank"><img width="40px" src="https://img.icons8.com/bubbles/100/null/linkedin.png" title="Linkedin" /></a> 
  </div>
 <div>
 <a href="https://github.com/MarcleyRosa">
