@@ -10,8 +10,6 @@ You can reach me on/ Você pode me contactar em:
   <a href="mailto:trybe.przt@gmail.com?subject=Hello%20Paulo%Ricardo"><img src="https://github.com/pauloricardoz/pauloricardoz/blob/master/gmail.png" width="35px" alt="Gmail"></a> &nbsp; &nbsp;
 </p>
 
-<img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
-
 ### Coding with/ Codando com:
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-     square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A">
@@ -30,6 +28,7 @@ You can reach me on/ Você pode me contactar em:
   <img align="center" alt="MongoDB" width="80" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
 </ br>
+<img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <div>
 <a href="https://github.com/MarcleyRosa">
