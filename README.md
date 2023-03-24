@@ -18,10 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div>
-   <a href="mailto:mmarcley.14@gmail.com"><img width="60px" src="https://img.icons8.com/bubbles/100/null/gmail.png" title="Email" /></a>
-   <a href="https://www.linkedin.com/in/marcley-rosa-8169a6105/" target="_blank"><img width="60px" src="https://img.icons8.com/bubbles/100/null/linkedin.png" title="Linkedin" /></a> 
- </div>
  <p align="left">
   <a href="https://www.linkedin.com/in/paulo-ricardo-zambelli-taveira/"><img src="https://github.com/pauloricardoz/pauloricardoz/blob/master/linkedin.svg" width="35px" alt="LinkedIn"></a> &nbsp; &nbsp;
   <a href="mailto:trybe.przt@gmail.com?subject=Hello%20Paulo%Ricardo"><img src="https://github.com/pauloricardoz/pauloricardoz/blob/master/gmail.png" width="35px" alt="Gmail"></a> &nbsp; &nbsp;
