@@ -7,17 +7,6 @@ Hi i’m Marcley
 
 <img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 development student at Trybe
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
  <p align="left">
   <a href="https://www.linkedin.com/in/paulo-ricardo-zambelli-taveira/"><img src="https://github.com/pauloricardoz/pauloricardoz/blob/master/linkedin.svg" width="35px" alt="LinkedIn"></a> &nbsp; &nbsp;
   <a href="mailto:trybe.przt@gmail.com?subject=Hello%20Paulo%Ricardo"><img src="https://github.com/pauloricardoz/pauloricardoz/blob/master/gmail.png" width="35px" alt="Gmail"></a> &nbsp; &nbsp;
@@ -29,6 +18,7 @@ Here are some ideas to get you started:
   </ br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcleyRosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+#### Coding with/ Codando com:
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-     square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A">
   <img align="center" alt="HTML" src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff">
