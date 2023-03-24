@@ -1,4 +1,5 @@
 # Hello, welcome to my GitHub
+### Coding with/ Codando com:
 Hi i’m Marcley
 -  Web development student at [Trybe](https://www.betrybe.com/), and currently I'm working as a Summer of Instruction at [Trybe](https://www.betrybe.com/)
 -  I'm learning Python.
@@ -10,7 +11,6 @@ You can reach me on/ Você pode me contactar em:
   <a href="https://www.linkedin.com/in/paulo-ricardo-zambelli-taveira/"><img src="https://github.com/pauloricardoz/pauloricardoz/blob/master/linkedin.svg" width="35px" alt="LinkedIn"></a> &nbsp; &nbsp;
   <a href="mailto:trybe.przt@gmail.com?subject=Hello%20Paulo%Ricardo"><img src="https://github.com/pauloricardoz/pauloricardoz/blob/master/gmail.png" width="35px" alt="Gmail"></a> &nbsp; &nbsp;
 </p>
-### Coding with/ Codando com:
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-     square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A">
   <img align="center" alt="HTML" src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff">
