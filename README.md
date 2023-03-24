@@ -3,7 +3,7 @@ Hi i’m Marcley
 -  Web development student at [Trybe](https://www.betrybe.com/), and currently I'm working as a Summer of Instruction at [Trybe](https://www.betrybe.com/)
 -  I'm learning Python.
 
-<img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador">
 
 You can reach me on/ Você pode me contactar em:
  <p align="left">
