@@ -4,7 +4,7 @@ Hi i’m Marcley
 -  Web development student at [Trybe](https://www.betrybe.com/), and currently I'm working as a Summer of Instruction at [Trybe](https://www.betrybe.com/)
 -  I'm learning Python.
 
-<img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
+<img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 You can reach me on/ Você pode me contactar em:
 <p align="left">
   <a href="https://www.linkedin.com/in/paulo-ricardo-zambelli-taveira/"><img src="https://github.com/pauloricardoz/pauloricardoz/blob/master/linkedin.svg" width="35px" alt="LinkedIn"></a> &nbsp; &nbsp;
