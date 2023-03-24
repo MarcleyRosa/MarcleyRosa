@@ -10,13 +10,6 @@ You can reach me on/ Você pode me contactar em:
   <a href="https://www.linkedin.com/in/paulo-ricardo-zambelli-taveira/"><img src="https://github.com/pauloricardoz/pauloricardoz/blob/master/linkedin.svg" width="35px" alt="LinkedIn"></a> &nbsp; &nbsp;
   <a href="mailto:trybe.przt@gmail.com?subject=Hello%20Paulo%Ricardo"><img src="https://github.com/pauloricardoz/pauloricardoz/blob/master/gmail.png" width="35px" alt="Gmail"></a> &nbsp; &nbsp;
 </p>
-<div>
-<a href="https://github.com/MarcleyRosa">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcleyRosa&layout=compact&langs_count=7&theme=dracula"/>
-  </ br>
-  </ br>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcleyRosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 #### Coding with/ Codando com:
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-     square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A">
@@ -33,6 +26,14 @@ You can reach me on/ Você pode me contactar em:
   <img align="center" alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-%231572B6?style=flat-square&logo=sequelize">
   <img align="center" alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=Typescript&logoColor=white">
   <img align="center" alt="MongoDB" width="80" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+</div>
+
+<div>
+<a href="https://github.com/MarcleyRosa">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcleyRosa&layout=compact&langs_count=7&theme=dracula"/>
+  </ br>
+  </ br>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcleyRosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 
