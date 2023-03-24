@@ -1,7 +1,7 @@
 # Hello, welcome to my GitHub
 
 Hi i’m Marcley
--  Web development student at [Trybe](https://www.betrybe.com/), and currently I'm working as a Summer of Instruction at [Trybe](https://www.betrybe.com/)
+-  Web development student at [Trybe](https://www.betrybe.com/), and currently I'm working as a Summer of Instruction also at [Trybe](https://www.betrybe.com/)
 -  I'm learning Python.
 
 You can reach me on/ Você pode me contactar em:
