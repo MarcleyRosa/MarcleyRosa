@@ -12,7 +12,6 @@ You can reach me on/ Você pode me contactar em:
 </p>
 
 ### Coding with/ Codando com:
-<div style="display: inline_block"><br>
   <img align="center" alt="Js" src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-     square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A">
   <img align="center" alt="HTML" src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff">
   <img align="center" alt="CSS" src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3">
@@ -35,7 +34,7 @@ You can reach me on/ Você pode me contactar em:
   </ br>
   </ br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcleyRosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+
 
 
 ##
