@@ -4,7 +4,7 @@ Hi i’m Marcley
 -  Web development student at [Trybe](https://www.betrybe.com/), and currently I'm working as a Summer of Instruction at [Trybe](https://www.betrybe.com/)
 -  I'm learning Python.
 
-<img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
+<img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador">
 You can reach me on/ Você pode me contactar em:
 <p align="left">
   <a href="https://www.linkedin.com/in/paulo-ricardo-zambelli-taveira/"><img src="https://github.com/pauloricardoz/pauloricardoz/blob/master/linkedin.svg" width="35px" alt="LinkedIn"></a> &nbsp; &nbsp;
@@ -28,11 +28,11 @@ You can reach me on/ Você pode me contactar em:
   <img align="center" alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=Typescript&logoColor=white">
   <img align="center" alt="MongoDB" width="80" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
+</ br>
 
 <div>
 <a href="https://github.com/MarcleyRosa">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcleyRosa&layout=compact&langs_count=7&theme=dracula"/>
-  </ br>
   </ br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcleyRosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
