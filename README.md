@@ -2,7 +2,7 @@
 
 Hi i’m Marcley
 -  Web development student at [Trybe](https://www.betrybe.com/), and currently I'm working as a Summer of Instruction also at [Trybe](https://www.betrybe.com/)
--  I'm learning Python.
+-  I'm learning Java.
 
 You can reach me on/ Você pode me contactar em:
 <p align="left">
