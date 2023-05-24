@@ -6,8 +6,8 @@ Hi i’m Marcley
 
 You can reach me on/ Você pode me contactar em:
 <p align="left">
-  <a href="https://www.linkedin.com/in/paulo-ricardo-zambelli-taveira/"><img src="https://github.com/pauloricardoz/pauloricardoz/blob/master/linkedin.svg" width="35px" alt="LinkedIn"></a> &nbsp; &nbsp;
-  <a href="mailto:trybe.przt@gmail.com?subject=Hello%20Paulo%Ricardo"><img src="https://github.com/pauloricardoz/pauloricardoz/blob/master/gmail.png" width="35px" alt="Gmail"></a> &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/marcley-bezerra-rosa/"><img src="https://github.com/pauloricardoz/pauloricardoz/blob/master/linkedin.svg" width="35px" alt="LinkedIn"></a> &nbsp; &nbsp;
+  <a href="mailto:mmarcley.14@gmail.com?subject=Hello%20Marcley"><img src="https://github.com/pauloricardoz/pauloricardoz/blob/master/gmail.png" width="35px" alt="Gmail"></a> &nbsp; &nbsp;
 </p>
 
 ### Coding with/ Codando com:
