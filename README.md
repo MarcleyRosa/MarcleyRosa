@@ -28,15 +28,13 @@ You can reach me on/ Você pode me contactar em:
   <img align="center" alt="MongoDB" width="80" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
 </ br>
-</ br>
-<img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" min-width="50%" max-width="350px" width="50%" height="190px" align="right" alt="Computador">
-
 <div>
 <a href="https://github.com/MarcleyRosa">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcleyRosa&layout=compact&langs_count=7&theme=dracula"/>
   </ br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcleyRosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+<img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" min-width="50%" max-width="350px" width="50%" height="190px" align="right" alt="Computador">
 
 
 ##
