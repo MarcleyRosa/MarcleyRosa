@@ -1,8 +1,6 @@
 # Hello, welcome to my GitHub
-
-Hi i’m Marcley
--  Possuo formação fullstack, com foco em desenvolvimento Back-end, e tenho ampla experiência em tecnologias como Node.js, React.js, JavaScript, TypeScript, Java, Spring Boot.
--  Atualmente como Professor de Desenvolvimento Web na Unifel e Desenvolvedor Full Stack no Ágora Rede Social
+-  FullStack com foco em desenvolvimento Back-end e ampla experiência em tecnologias como Node.js, React.js, JavaScript, TypeScript, Java, Spring Boot.
+-  Atualmente como Professor de Desenvolvimento Web na Unifel e Desenvolvedor FullStack no Ágora Rede Social
 
 You can reach me on/ Você pode me contactar em:
 <p align="left">
