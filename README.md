@@ -1,8 +1,8 @@
 # Hello, welcome to my GitHub
 
 Hi i’m Marcley
--  Web development student at [Trybe](https://www.betrybe.com/), and currently I'm working as a Summer of Instruction also at [Trybe](https://www.betrybe.com/)
--  I'm learning Java.
+-  Possuo formação fullstack, com foco em desenvolvimento Back-end, e tenho ampla experiência em tecnologias como Node.js, React.js, JavaScript, TypeScript, Java, Spring Boot.
+-  Atualmente como Professor de Desenvolvimento Web na Unifel e Desenvolvedor Full Stack no Ágora Rede Social
 
 You can reach me on/ Você pode me contactar em:
 <p align="left">
