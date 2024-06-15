@@ -1,5 +1,5 @@
 # Hello, welcome to my GitHub
--  FullStack com foco em desenvolvimento Back-end e ampla experiência em tecnologias como Node.js, React.js, JavaScript, TypeScript, Ruby on Rails, Vue.js.
+-  FullStack com foco em desenvolvimento Back-end e com experiência em tecnologias como Node.js, React.js, JavaScript, TypeScript, Ruby, Ruby on Rails, Vue.js.
 -  Atualmente como Professor de Desenvolvimento Web na Unifel e Desenvolvedor FullStack no Ágora Rede Social
 
 You can reach me on/ Você pode me contactar em:
